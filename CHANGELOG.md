@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/yugasun/release-ci-template/compare/v1.0.0...v1.0.1) (2020-04-01)
+
+
+### Bug Fixes
+
+* add pre-push hook ([7bff42d](https://github.com/yugasun/release-ci-template/commit/7bff42d9f4785ff9534ea0cd4de3ea2827333577))
+
 # 1.0.0 (2020-03-22)
 
 
