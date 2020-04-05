@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/yugasun/release-ci-template/compare/v1.0.1...v1.0.2) (2020-04-05)
+
+
+### Bug Fixes
+
+* add npm ignore ([b87d10c](https://github.com/yugasun/release-ci-template/commit/b87d10c6325e2ae3ad99fdc5836fa3c63a60b5f4))
+
 ## [1.0.1](https://github.com/yugasun/release-ci-template/compare/v1.0.0...v1.0.1) (2020-04-01)
 
 
